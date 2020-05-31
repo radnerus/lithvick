@@ -17,7 +17,7 @@ const IMAGES =
             caption: "Majestic Prince👑"
         },
         {
-            src: "assets/images/main/3.jpg",
+            src: "assets/images/main/3_changed.jpg",
             thumbnail: "assets/images/thumbs/3a.jpg",
             caption: "Happy to carry you in my shoulders💕"
         },
@@ -32,7 +32,7 @@ const IMAGES =
             caption: "You Beauty👼🏻"
         },
         {
-            src: "assets/images/main/6.jpg",
+            src: "assets/images/main/6_changed.jpg",
             thumbnail: "assets/images/thumbs/6a.jpg",
             caption: "Bundle of Joy💓"
         },

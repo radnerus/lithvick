@@ -30,7 +30,6 @@ export default function Home({ name }) {
           <title>Lithvick 🎂</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
-
         <main>
           <div className="music">
             {wishMe && <ReactAudioPlayer src='assets/audio/HBD.mp3' autoPlay controls onPlay={() => setIsPlaying(true)} onPause={() => setIsPlaying(false)} onAbort={() => isPlaying = setIsPlaying(false)} />}
