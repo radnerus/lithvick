@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const QUALITIES = [
     `I turn <span class="highlight">1🎂🎊</span> today <br />- June 1, 2020`,
-    `I have <span class="highlight">SIX</span> tooth<span class="highlight">🦷</span> <br /> <span class="highlight">4</span> Up <br /><span class="highlight">2</span> Down`,
+    `I have <span class="highlight">SEVEN</span> tooth<span class="highlight">🦷</span> <br /> <span class="highlight">4</span> Up <br /><span class="highlight">3</span> Down`,
     `I say <span class="highlight">🔊  APPA</span>, <span class="highlight">AMMA</span>, <span class="highlight">AWWA</span>, <span class="highlight">AAYA</span> and some more.`,
     `I <span class="highlight">DANCE</span> for some peppy beats🥁`,
     `I decide the <span class="highlight">SLEEP😴</span> schedule😴`,
