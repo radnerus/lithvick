@@ -29,6 +29,7 @@ export default function Home({ name }) {
         <Head>
           <title>Lithvick 🎂</title>
           <link rel="icon" href="/favicon.ico" />
+          <meta property=og:image content=https://raw.githubusercontent.com/radnerus/lithvick/master/public/assets/images/main/2.jpg?token=AFHUO4FCSAI6Y4RB5SAFQGK62QCRU />
         </Head>
         <main>
           <div className="music">
